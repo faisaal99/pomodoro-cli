@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "linux_x64",
+            "includePath": [
+                "include",
+                "src"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++20"
+        }
+    ],
+    "version": 4
+}
